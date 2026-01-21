@@ -1,5 +1,5 @@
 {
-  "name": "@movies/core",
+  "name": "@nestjs-movies/core",
   "version": "1.0.0",
   "description": "Core utils and shared setup",
   "type": "commonjs",
